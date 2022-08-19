@@ -1,0 +1,32 @@
+h2 {color: red;
+}
+
+
+body {background-color: #00aa77
+}
+
+h3 { border-width:4px;
+	border-style: solid;
+	border-color: #ff0000;
+	padding: 4px;
+	margin: 100px;
+  }
+
+
+h3 {text-align: center;
+}
+
+#imagem-principal {width: 70%;
+}
+.texto-um {background-color: #aa0000
+}
+
+.texto-dois {background-color: #88ee00
+}
+.texto-dois {font-size:  30px;
+}
+
+.Paulo{background-color: yellow;
+}
+.Paulo {font-size:  150%;
+}
